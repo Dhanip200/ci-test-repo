@@ -7,7 +7,7 @@ def find_max(numbers):
 
 
 def add(a, b):
-    return a + 
+    return a + b
 
 
 def subtract(a, b):
